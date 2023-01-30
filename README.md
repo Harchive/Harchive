@@ -1,7 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=rounded&color=auto&height=150&section=header&text=Harchive&fontSize=50&animation=scaleIn)
-<!--![*'s githubstats](https://github-readme-stats.vercel.app/api?username=Harchive&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Harchive&theme=radical)-->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Harchive&layout=compact)
 
 <h1 align="center">안녕하세요 👋 차현수 입니다.</h1>
 <h3 align="center">꿈꾸는 고래</h3>
